@@ -3,14 +3,14 @@ A curated list for **GUI Agents**
 
 **Table Content:** 
 
-- [Updates](# updates) 
+- [Updates](#updates) 
 - [Contributing](#contri) 
 - [Four Module of GUI Agents](#module)
 - [Paper List](#paper-list) 
   - [GUI Agents List](#agentlist) 
   - [GUI Agents Datasets & Benchmark List](#datasets) 
 
-![Alt text](Figures/overview.png)
+![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
 
@@ -24,7 +24,7 @@ If you'd like to include your paper, or need to update any details such as githu
 
 We have divided GUI Agents into four modules: perception, exploration, planning, and interaction, as shown below:
 
-![Alt text](Figures/module.jpg)
+![Alt text](figures/module.jpg)
 
 ## [Paper List](#paperlist)
 
