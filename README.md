@@ -13,6 +13,7 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* April 2, 2025: We have already uploaded the paper to arXiv, please wait for some time. Meanwhile, we will keep updating this repo.
 
 * March 24, 2025: We updated the repository and released our comprehensive survey on GUI Agents.
 
