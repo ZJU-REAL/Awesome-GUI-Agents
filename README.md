@@ -35,7 +35,9 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 ### R1-Style GUI Agents
 2025-4-19: InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners
+
 2025-4-14: GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents
+
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
