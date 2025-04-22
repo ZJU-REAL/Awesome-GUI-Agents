@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* April 22, 2025: We updated GUI Agents List based on RL (R1 Style).
+  
 * April 2, 2025: We have already uploaded the paper to arXiv, please wait for some time. Meanwhile, we will keep updating this repo.
 
 * March 24, 2025: We updated the repository and released our comprehensive survey on GUI Agents.
@@ -30,6 +32,11 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 ## [Paper List](#paperlist)
 
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
+
+### R1-Style GUI Agents
+2025-4-19: InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners
+2025-4-14: GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents
+2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
 | Title & Time | Introduction | Links |
