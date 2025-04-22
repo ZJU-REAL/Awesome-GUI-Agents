@@ -13,9 +13,7 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
-* April 22, 2025: We're excited to announce that our paper has been published and is now available on arXiv. We welcome your attention and feedback!
-
-[Check it out](https://arxiv.org/abs/2504.13865). We updated GUI Agents List based on RL (R1 Style). 
+* April 22, 2025: We're excited to announce that our paper has been published and is now available on arXiv. We welcome your attention and feedback! [Check it out](https://arxiv.org/abs/2504.13865). We updated GUI Agents List based on RL (R1 Style). 
   
 * April 2, 2025: We have already uploaded the paper to arXiv, please wait for some time. Meanwhile, we will keep updating this repo.
 
