@@ -65,6 +65,7 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 ### [GUI Agents List](#agentlist)
 | Title & Time | Introduction | Links |
 |:--|  :----: | :---:|
+| MobileA^3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users (2025-5) | <img width="1002" alt="image" src="figures/mobile3agent.png" >| [Github](https://anonymous.4open.science/r/MobileA3gent-Anonymous) <br/> [Paper](https://arxiv.org/pdf/2502.02982)|
 | Advancing Mobile GUI Agents: A Verifier-Driven  Approach to Practical Deployment (2025-3) | <img width="1002" alt="image" src="figures/verifiergui.png" > | [Github]() <br/> [Paper](https://www.arxiv.org/abs/2503.15937) |
 | API Agents vs. GUI Agents: Divergence and Convergence (2025-3) | <img width="1002" alt="image" src="figures/apivsgui.png" > | [Github]() <br/> [Paper](https://arxiv.org/abs/2503.11069) |
 | AppAgentX: Evolving GUI Agents as Proficient Smartphone Users (2025-3) | <img width="1002" alt="image" src="figures/appagentx.png" > | [Github](https://github.com/Westlake-AGI-Lab/AppAgentX) <br/> [Paper](https://arxiv.org/pdf/2503.02268) |
