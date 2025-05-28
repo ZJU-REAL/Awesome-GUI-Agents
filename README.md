@@ -33,6 +33,15 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
+### Video GUI
+desc: using video to assist gui agent learn
+
+Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents
+
+ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
+
+VideoGUI: A Benchmark for GUI Automation from Instructional Videos
+
 ### R1-Style GUI Agents
 2025-5-21: GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
