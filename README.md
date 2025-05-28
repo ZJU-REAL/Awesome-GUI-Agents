@@ -33,6 +33,15 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
+### GUI Grounding Benchmark
+[ScreenSpot](https://huggingface.co/datasets/rootsautomation/ScreenSpot): [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
+
+[ScreenSpot-V2](https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2): [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+
+[ScreenSpot-Pro](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro): [ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf
+
+[CA-GUI](https://huggingface.co/datasets/openbmb/CAGUI): AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
+
 ### Video GUI
 desc: using video to assist gui agent learn
 
