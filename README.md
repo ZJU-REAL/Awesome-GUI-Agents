@@ -40,7 +40,7 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 [ScreenSpot-Pro](https://huggingface.co/datasets/likaixin/ScreenSpot-Pro): [ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf)
 
-[CA-GUI](https://huggingface.co/datasets/openbmb/CAGUI): AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.
+[CA-GUI](https://huggingface.co/datasets/openbmb/CAGUI): [AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.](https://github.com/OpenBMB/AgentCPM-GUI)
 
 ### Video GUI
 desc: using video to assist gui agent learn
