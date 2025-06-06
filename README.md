@@ -33,6 +33,13 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
+### Technical Report
+[MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)
+
+[AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
+
+[UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
+
 ### GUI Grounding Benchmark
 [ScreenSpot](https://huggingface.co/datasets/rootsautomation/ScreenSpot): [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
