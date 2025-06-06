@@ -52,6 +52,9 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### R1-Style GUI Agents
+
+2025-6-06: Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation
+
 2025-5-21: GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
 
 2025-5-18: Enhancing Visual Grounding for GUI Agents via Self-Evolutionary Reinforcement Learning
