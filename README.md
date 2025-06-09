@@ -73,6 +73,7 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-6 GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents [Github](https://github.com/microsoft/GUI-Actor) [Paper](https://arxiv.org/abs/2506.03143)
 | Title & Time | Introduction | Links |
 |:--|  :----: | :---:|
 | MobileA^3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users (2025-5) | <img width="1002" alt="image" src="figures/mobile3agent.png" >| [Github](https://anonymous.4open.science/r/MobileA3gent-Anonymous) <br/> [Paper](https://arxiv.org/pdf/2502.02982)|
