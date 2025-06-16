@@ -59,6 +59,7 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### R1-Style GUI Agents
+2025-6-13: LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization
 
 2025-6-06: Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation
 
