@@ -40,6 +40,12 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### GUI Navigation Benchmark
+Stay tuned! 
+
+### Zero Cost GUI Agent
+2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
+
 ### GUI Grounding Benchmark
 [ScreenSpot](https://huggingface.co/datasets/rootsautomation/ScreenSpot): [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
