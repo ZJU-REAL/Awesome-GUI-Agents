@@ -64,7 +64,7 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
-### Test-Scaling Method (GUI Grounding && GUI Navigation)
+### Test-Scaling Method (GUI Grounding && GUI Navigation) (Zoom In && Zoom Out)
 1、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 
 2、Improved GUI Grounding via Iterative Narrowing
