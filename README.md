@@ -64,6 +64,13 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
+### Test-Scaling Method (GUI Grounding && GUI Navigation)
+1、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+
+2、Improved GUI Grounding via Iterative Narrowing
+
+3、Visual Test-time Scaling for GUI Agent Grounding
+
 ### R1-Style GUI Agents
 2025-6-13: LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization
 
@@ -83,6 +90,7 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### [GUI Agents List](#agentlist)
 2025-6 DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+
 2025-6 GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents [Github](https://github.com/microsoft/GUI-Actor) [Paper](https://arxiv.org/abs/2506.03143)
 | Title & Time | Introduction | Links |
 |:--|  :----: | :---:|
