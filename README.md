@@ -94,6 +94,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 2025-7 Qwen-GUI-3B: A Lightweight Vision–Language Model for Cross-Resolution GUI Grounding
 
+2025-6 Understanding GUI Agent Localization Biases through Logit Sharpness
+
 2025-6 DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 
 2025-6 GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents [Github](https://github.com/microsoft/GUI-Actor) [Paper](https://arxiv.org/abs/2506.03143)
