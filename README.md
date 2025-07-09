@@ -34,6 +34,10 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+[MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://www.arxiv.org/pdf/2507.05720)
+
+[GTA1: GUI Test-time Scaling Agent](https://arxiv.org/pdf/2507.05791v1)
+
 [MiMo-VL Technical Report](https://arxiv.org/abs/2506.03569)
 
 [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
@@ -65,13 +69,22 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### Test-Scaling Method (GUI Grounding && GUI Navigation) (Zoom In && Zoom Out)
-1、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 
-2、Improved GUI Grounding via Iterative Narrowing
+1、GTA1: GUI Test-time Scaling Agent
 
-3、Visual Test-time Scaling for GUI Agent Grounding
+2、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+
+3、Improved GUI Grounding via Iterative Narrowing
+
+4、Visual Test-time Scaling for GUI Agent Grounding
 
 ### R1-Style GUI Agents
+2025-7-09: MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment
+
+2025-7-09: GTA1: GUI Test-time Scaling Agent
+
+2025-6-25: Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards
+
 2025-6-13: LPO: Towards Accurate GUI Agent Interaction via Location Preference Optimization
 
 2025-5-29: Grounded Reinforcement Learning for Visual Reasoning
