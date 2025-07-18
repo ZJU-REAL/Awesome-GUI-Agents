@@ -114,6 +114,9 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 2025-6 GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents [Github](https://github.com/microsoft/GUI-Actor) [Paper](https://arxiv.org/abs/2506.03143)
 | Title & Time | Introduction | Links |
 |:--|  :----: | :---:|
+| Less is More: Empowering GUI Agent with Context-Aware Simplification (2025-7, 2025ICCV) | <img width="1002" alt="image" src="figures/simpagent.png" >| [Github](https://github.com/JiuTian-VL/SimpAgent) <br/> [Paper](https://arxiv.org/pdf/2507.03730)|
+| Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills (2025-6) | <img width="1002" alt="image" src="figures/Mirage_1.png" >| [Github](https://cybertronagent.github.io/Mirage-1.github.io/) <br/> [Paper](https://arxiv.org/abs/2506.10387)|
+| GUI-Explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent (2025-5, 2025ACL) | <img width="1002" alt="image" src="figures/gui_explorer.png" >| [Github](https://github.com/JiuTian-VL/GUI-explorer) <br/> [Paper](https://arxiv.org/pdf/2505.16827)|
 | MobileA^3gent: Training Mobile GUI Agents Using Decentralized Self-Sourced Data from Diverse Users (2025-5) | <img width="1002" alt="image" src="figures/mobile3agent.png" >| [Github](https://anonymous.4open.science/r/MobileA3gent-Anonymous) <br/> [Paper](https://arxiv.org/pdf/2502.02982)|
 | Advancing Mobile GUI Agents: A Verifier-Driven  Approach to Practical Deployment (2025-3) | <img width="1002" alt="image" src="figures/verifiergui.png" > | [Github]() <br/> [Paper](https://www.arxiv.org/abs/2503.15937) |
 | API Agents vs. GUI Agents: Divergence and Convergence (2025-3) | <img width="1002" alt="image" src="figures/apivsgui.png" > | [Github]() <br/> [Paper](https://arxiv.org/abs/2503.11069) |
