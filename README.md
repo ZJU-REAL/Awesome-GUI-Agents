@@ -47,6 +47,9 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 ### GUI Navigation Benchmark
 Stay tuned! 
 
+### Multi-turn GUI Agent
+2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
