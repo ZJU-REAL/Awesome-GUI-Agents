@@ -13,7 +13,7 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
-* July 22, 2025: We released our new paper on GUI Grounding: GUI-G²: Gaussian Reward Modeling for GUI Grounding. [Check it out](https://arxiv.org/abs/2507.15846)!
+* July 22, 2025: **We released our new paper on GUI Grounding: GUI-G²: Gaussian Reward Modeling for GUI Grounding. [Check it out](https://arxiv.org/abs/2507.15846)!**
 
 * April 22, 2025: We're excited to announce that our paper has been published and is now available on arXiv. We welcome your attention and feedback! [Check it out](https://arxiv.org/abs/2504.13865). We updated GUI Agents List based on RL (R1 Style). 
   
