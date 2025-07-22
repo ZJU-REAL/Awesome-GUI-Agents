@@ -89,7 +89,7 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### R1-Style GUI Agents
 2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
-💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
+ 💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
 
 2025-7-09: MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment
 
