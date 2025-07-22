@@ -84,6 +84,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 4、Visual Test-time Scaling for GUI Agent Grounding
 
 ### R1-Style GUI Agents
+2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding [Arxiv Link](https://arxiv.org/abs/2507.15846)
+
 2025-7-09: MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment
 
 2025-7-09: GTA1: GUI Test-time Scaling Agent
