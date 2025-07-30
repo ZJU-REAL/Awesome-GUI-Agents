@@ -87,6 +87,9 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 4、Visual Test-time Scaling for GUI Agent Grounding
 
+5、UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
+
+
 ### R1-Style GUI Agents
 2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
  💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
