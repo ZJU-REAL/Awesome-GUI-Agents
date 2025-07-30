@@ -51,7 +51,7 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
 ### GUI Navigation Benchmark
-Stay tuned! 
+2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
 
 ### Multi-turn GUI Agent
 2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
