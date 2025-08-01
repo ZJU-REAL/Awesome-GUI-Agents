@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* August 1, 2025: **We will add a weekly section summarizing GUI Agent research papers. Stay tuned!**
+
 * July 22, 2025: **We released our new paper on GUI Grounding: GUI-G²: Gaussian Reward Modeling for GUI Grounding. [Check it out](https://arxiv.org/abs/2507.15846)!**
   - 📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  
   - 🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846)  
