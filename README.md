@@ -42,6 +42,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+Phi-Ground Tech Report: Advancing Perception in GUI Grounding
+
 [MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment](https://www.arxiv.org/pdf/2507.05720)
 
 [GTA1: GUI Test-time Scaling Agent](https://arxiv.org/pdf/2507.05791v1)
