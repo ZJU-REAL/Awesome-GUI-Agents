@@ -59,13 +59,21 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 ### GUI Navigation Benchmark
 2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
 We will organize these points later:
+
 1、AndroidWorld
+
 2、AndroidControl
+
 3、GUI-Odyssey
+
 4、Amex
+
 5、WebArena
+
 6、WebSRC_v1.0
+
 7、Mind2Web 2
+
 8、... stay tuned
 
 
