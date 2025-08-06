@@ -1,4 +1,4 @@
-# Awesome-GUI-Agents
+<img width="176" height="51" alt="image" src="https://github.com/user-attachments/assets/1df2d7bb-a4a1-4d3a-9d73-6c3367b9328b" /># Awesome-GUI-Agents
 A curated list for **GUI Agents**
 
 **Table Content:** 
@@ -58,6 +58,16 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 ### GUI Navigation Benchmark
 2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
+We will organize these points later:
+1、AndroidWorld
+2、AndroidControl
+3、GUI-Odyssey
+4、Amex
+5、WebArena
+6、WebSRC_v1.0
+7、Mind2Web 2
+8、... stay tuned
+
 
 ### Multi-turn GUI Agent
 2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
