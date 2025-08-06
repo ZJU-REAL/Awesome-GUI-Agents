@@ -64,6 +64,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 ### GUI Grounding Benchmark
+UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction [2025ICML]
+
 [ScreenSpot](https://huggingface.co/datasets/rootsautomation/ScreenSpot): [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
 
 [ScreenSpot-V2](https://huggingface.co/datasets/OS-Copilot/ScreenSpot-v2): [OS-ATLAS: Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
@@ -95,6 +97,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 
 ### R1-Style GUI Agents
+2025-8-06: NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
+
 2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
  💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
 
