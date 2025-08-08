@@ -119,6 +119,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 ### R1-Style GUI Agents
 2025-8-06: NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
 
+2025-8-04: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
+
 2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
  💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
 
