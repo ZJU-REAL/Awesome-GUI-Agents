@@ -42,6 +42,9 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+
+MAGICGUI: A FOUNDATIONAL MOBILE GUI AGENT WITH SCALABLE DATA PIPELINE AND REINFORCEMENT FINE-TUNING
+
 Magentic-UI: Towards Human-in-the-loop Agentic Systems
 
 Phi-Ground Tech Report: Advancing Perception in GUI Grounding
