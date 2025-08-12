@@ -87,6 +87,8 @@ We will organize these points later:
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 ### GUI Grounding Benchmark
+WinSpot: A Windows GUI Grounding Benchmark with Multimodal Large Language Models
+
 UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction [2025ICML]
 
 [ScreenSpot](https://huggingface.co/datasets/rootsautomation/ScreenSpot): [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935)
@@ -121,6 +123,10 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 
 ### R1-Style GUI Agents
+2025-8-11: InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
+
+2025-8-07: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
+
 2025-8-06: NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
 
 2025-8-04: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
