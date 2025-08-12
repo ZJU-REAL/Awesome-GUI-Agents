@@ -107,16 +107,17 @@ ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 ### Test-Scaling Method (GUI Grounding && GUI Navigation) (Zoom In && Zoom Out)
+1、Test-Time Reinforcement Learning for GUI Grounding via Region Consistency
 
-1、GTA1: GUI Test-time Scaling Agent
+2、GTA1: GUI Test-time Scaling Agent
 
-2、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
 
-3、Improved GUI Grounding via Iterative Narrowing
+4、Improved GUI Grounding via Iterative Narrowing
 
-4、Visual Test-time Scaling for GUI Agent Grounding
+5、Visual Test-time Scaling for GUI Agent Grounding
 
-5、UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
+6、UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
 
 
 ### R1-Style GUI Agents
