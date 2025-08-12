@@ -125,8 +125,6 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 ### R1-Style GUI Agents
 2025-8-11: InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
 
-2025-8-07: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
-
 2025-8-06: NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
 
 2025-8-04: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
