@@ -157,6 +157,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-8 Browsing Like Human: A Multimodal Web Agent with Experiential Fast-and-Slow Thinking [2025ACL]
+
 2025-8 Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement
 
 2025-7 ZonUI-3B: A Lightweight Vision–Language Model for Cross-Resolution GUI Grounding
