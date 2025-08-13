@@ -13,7 +13,7 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
-* Augest 14, 2025: We released our new paper on GUI Grounding: Test-Time Reinforcement Learning for GUI Grounding via Region Consistency
+* Augest 14, 2025: We released our new paper on GUI Grounding: **Test-Time Reinforcement Learning for GUI Grounding via Region Consistency**
   - 📄 [arXiv 2508.05615](https://arxiv.org/abs/2508.05615)   
   - 💻 [GitHub Project](https://github.com/zju-real/gui-rcpo)  
 
