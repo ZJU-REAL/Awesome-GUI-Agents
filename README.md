@@ -43,6 +43,8 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 ### Technical Report
 
+OPENCUA: Open Foundations for Computer-Use Agents
+
 MAGICGUI: A FOUNDATIONAL MOBILE GUI AGENT WITH SCALABLE DATA PIPELINE AND REINFORCEMENT FINE-TUNING
 
 Magentic-UI: Towards Human-in-the-loop Agentic Systems
