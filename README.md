@@ -47,6 +47,8 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 ### Technical Report
 
+UI-Venus Technical Report: Building High-performance UI Agents with RFT
+
 OPENCUA: Open Foundations for Computer-Use Agents
 
 MAGICGUI: A FOUNDATIONAL MOBILE GUI AGENT WITH SCALABLE DATA PIPELINE AND REINFORCEMENT FINE-TUNING
