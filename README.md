@@ -46,6 +46,7 @@ If you'd like to include your paper, or need to update any details such as githu
 3. WinSpot: A Windows GUI Grounding Benchmark with Multimodal Large Language Models
 4. InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
 5. UI-Venus Technical Report: Building High-performance UI Agents with RFT
+</details>
 
 ## [Four Module of GUI Agents](#module)
 
