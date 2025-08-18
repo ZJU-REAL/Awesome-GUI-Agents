@@ -14,7 +14,7 @@ A curated list for **GUI Agents**
 
 ## 🚀 [Updates](#updates) 
 * Augest 18, 2025: We open-source our GUI-G2-3B and GUI-G2-7B models. Try it out.
-* 
+
 <a href="https://huggingface.co/inclusionAI/GUI-G2-3B"><img src="https://img.shields.io/badge/Model-GUI--G2--3B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 3B Model"></a>
 <a href="https://huggingface.co/inclusionAI/GUI-G2-7B"><img src="https://img.shields.io/badge/Model-GUI--G2--7B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 7B Model"></a>
 
