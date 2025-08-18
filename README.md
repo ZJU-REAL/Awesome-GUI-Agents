@@ -120,6 +120,9 @@ We will organize these points later:
 ### Multi-turn GUI Agent
 2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
 
+### Training Free GUI Grounding
+1、Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning [2025AAAI]
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
