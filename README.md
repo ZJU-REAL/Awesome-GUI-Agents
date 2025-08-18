@@ -172,8 +172,13 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 2025-8-04: GuirlVG: Incentivize GUI Visual Grounding via Empirical Exploration on Reinforcement Learning
 
-2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
- 💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
+2025-7-22: GUI-G²: Gaussian Reward Modeling for GUI Grounding  
+  - 📄 [arXiv 2507.15846](https://arxiv.org/abs/2507.15846)  
+  - 🤗 [Hugging Face Papers](https://huggingface.co/papers/2507.15846) 
+  - 💻 [GitHub Project](https://github.com/zju-real/GUI-G2) 
+  - 🌐 [Project Page](https://zju-real.github.io/GUI-G2/)
+  - <a href="https://huggingface.co/inclusionAI/GUI-G2-3B"><img src="https://img.shields.io/badge/Model-GUI--G2--3B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 3B Model"></a>
+  - <a href="https://huggingface.co/inclusionAI/GUI-G2-7B"><img src="https://img.shields.io/badge/Model-GUI--G2--7B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 7B Model"></a>
 
 2025-7-09: MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment
 
