@@ -152,6 +152,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-8-18: CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
+
 2025-8-11: InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
 
 2025-8-06: SEA: Self-Evolution Agent with Step-wise Reward for Computer Use
