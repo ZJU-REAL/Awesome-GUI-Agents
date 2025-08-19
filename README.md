@@ -97,6 +97,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
 ### GUI Navigation Benchmark
+2025-08: UI-NEXUS: Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
+
 2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
 We will organize these points later:
 
