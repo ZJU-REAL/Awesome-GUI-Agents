@@ -48,7 +48,8 @@ If you'd like to include your paper, or need to update any details such as githu
 
 **Weekly Paper List：**
 1. CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
-
+2. COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AGENTS
+3. Mobile-Agent-v3: Foundamental Agents for GUI Automation
 </details>
 
 <details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
@@ -75,6 +76,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+
+Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 UI-Venus Technical Report: Building High-performance UI Agents with RFT
 
@@ -167,6 +170,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-8-20: COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AGENTS
+
 2025-8-18: CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
 
 2025-8-11: InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
