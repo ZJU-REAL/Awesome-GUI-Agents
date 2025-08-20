@@ -99,6 +99,14 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### Online RL 
+
+MOBILERL: ADVANCING MOBILE USE AGENTS WITH ADAPTIVE ONLINE REINFORCEMENT LEARNING
+
+COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AGENTS
+
+Mobile-Agent-v3: Foundamental Agents for GUI Automation
+
 ### GUI Navigation Benchmark
 2025-08: UI-NEXUS: Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
 
