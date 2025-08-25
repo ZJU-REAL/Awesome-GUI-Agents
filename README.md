@@ -43,6 +43,14 @@ If you'd like to include your paper, or need to update any details such as githu
 ## 📚 Weekly Paper List
 <details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
 <summary style="color: #8b4513; font-weight: bold; cursor: pointer; list-style: none; font-size: 18px;">
+📚 2025-8-25 to 2025-8-29 📚
+</summary>
+
+**Weekly Paper List：**
+1. Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
+
+<details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
+<summary style="color: #8b4513; font-weight: bold; cursor: pointer; list-style: none; font-size: 18px;">
 📚 2025-8-18 to 2025-8-22 📚
 </summary>
 
@@ -221,6 +229,9 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+
+2025-8 Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
+
 2025-8 Browsing Like Human: A Multimodal Web Agent with Experiential Fast-and-Slow Thinking [2025ACL]
 
 2025-8 Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement
