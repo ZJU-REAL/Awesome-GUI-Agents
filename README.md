@@ -218,6 +218,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 2025-5-29: Grounded Reinforcement Learning for Visual Reasoning
 
+2025-5-22: WEBAGENT-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
+
 2025-6-06: Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation
 
 2025-5-21: GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents
