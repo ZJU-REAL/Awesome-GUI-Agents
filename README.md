@@ -45,6 +45,7 @@ If you'd like to include your paper, or need to update any details such as githu
 <summary style="color: #8b4513; font-weight: bold; cursor: pointer; list-style: none; font-size: 18px;">
 📚 2025-8-25 to 2025-8-29 📚
 </summary>
+</details>
 
 **Weekly Paper List：**
 1. Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
