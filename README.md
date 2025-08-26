@@ -49,6 +49,7 @@ If you'd like to include your paper, or need to update any details such as githu
 
 **Weekly Paper List：**
 1. Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
+2. WEBSIGHT: A Vision-First Architecture for Robust Web Agents
 </details>
 
 <details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
@@ -234,6 +235,7 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-8 WEBSIGHT: A Vision-First Architecture for Robust Web Agents
 
 2025-8 Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
 
