@@ -180,7 +180,7 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 2、GTA1: GUI Test-time Scaling Agent
 
-3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning
+3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [2025 EMNLP]
 
 4、Improved GUI Grounding via Iterative Narrowing
 
