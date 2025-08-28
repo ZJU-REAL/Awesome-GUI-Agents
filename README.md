@@ -62,6 +62,7 @@ If you'd like to include your paper, or need to update any details such as githu
 1. CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
 2. COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AGENTS
 3. Mobile-Agent-v3: Foundamental Agents for GUI Automation
+4. SWIRL: A STAGED WORKFLOW FOR INTERLEAVED REINFORCEMENT LEARNING IN MOBILE GUI CONTROL
 </details>
 
 <details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
@@ -192,6 +193,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-8-28: SWIRL: A STAGED WORKFLOW FOR INTERLEAVED REINFORCEMENT LEARNING IN MOBILE GUI CONTROL
+
 2025-8-20: COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AGENTS
 
 2025-8-18: CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks
@@ -237,6 +240,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-8 SWIRL: A STAGED WORKFLOW FOR INTERLEAVED REINFORCEMENT LEARNING IN MOBILE GUI CONTROL
+
 2025-8 PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration
 
 2025-8 WEBSIGHT: A Vision-First Architecture for Robust Web Agents
