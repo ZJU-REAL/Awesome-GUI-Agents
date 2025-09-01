@@ -251,6 +251,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 2025-8 Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
 
+2025-8 You Don’t Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation
+
 2025-8 Browsing Like Human: A Multimodal Web Agent with Experiential Fast-and-Slow Thinking [2025ACL]
 
 2025-8 Uncertainty-Aware GUI Agent: Adaptive Perception through Component Recommendation and Human-in-the-Loop Refinement
