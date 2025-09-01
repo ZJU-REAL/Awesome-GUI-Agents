@@ -51,6 +51,7 @@ If you'd like to include your paper, or need to update any details such as githu
 1. Structuring GUI Elements through Vision Language Models: Towards Action Space Generation
 2. WEBSIGHT: A Vision-First Architecture for Robust Web Agents
 3. PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration
+4. UItron: Foundational GUI Agent with Advanced Perception and Planning
 </details>
 
 <details style="background: #f7f3e9; border-left: 5px solid #8b4513; padding: 20px; margin: 10px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); font-family: Georgia, serif;">
@@ -89,6 +90,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+
+UItron: Foundational GUI Agent with Advanced Perception and Planning
 
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
