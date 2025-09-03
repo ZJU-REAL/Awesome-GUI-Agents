@@ -90,6 +90,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning
+
 CODA: COORDINATING THE CEREBRUM AND CEREBELLUM FOR A DUAL-BRAIN COMPUTER USE AGENT WITH DECOUPLED REINFORCEMENT LEARNING.
 
 UItron: Foundational GUI Agent with Advanced Perception and Planning
