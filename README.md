@@ -199,6 +199,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-9-05: Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding 
+
 2025-8-28: SWIRL: A STAGED WORKFLOW FOR INTERLEAVED REINFORCEMENT LEARNING IN MOBILE GUI CONTROL
 
 2025-8-20: CODA: COORDINATING THE CEREBRUM AND CEREBELLUM FOR A DUAL-BRAIN COMPUTER USE AGENT WITH DECOUPLED REINFORCEMENT LEARNING.
