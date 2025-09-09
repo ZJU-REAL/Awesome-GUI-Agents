@@ -127,6 +127,8 @@ COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AG
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 ### GUI Navigation Benchmark
+2025-09: MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents 
+
 2025-08: UI-NEXUS: Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
 
 2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
