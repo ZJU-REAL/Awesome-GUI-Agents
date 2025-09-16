@@ -13,7 +13,7 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
-* September 16, 2025: We released our new paper on GUI Automation: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
+* September 16, 2025: We released our new paper on GUI Automation: **UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning**
     - 📄 [arXiv 2509.11543](https://arxiv.org/pdf/2509.11543)  
     - 🤗 [Hugging Face Papers](https://huggingface.co/papers/2509.11543)  
     - 💻 [GitHub Project](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1)  
