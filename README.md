@@ -13,6 +13,10 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* September 16, 2025: We released our new paper on GUI Automation: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
+    - 📄 [arXiv 2509.11543](https://arxiv.org/pdf/2509.11543)  
+    - 🤗 [Hugging Face Papers](https://huggingface.co/papers/2509.11543)  
+    - 💻 [GitHub Project](https://github.com/X-PLUG/MobileAgent/tree/main/UI-S1)  
 * Augest 18, 2025: We open-source our GUI-G2-3B and GUI-G2-7B models. Try it out.
 
   - <a href="https://huggingface.co/inclusionAI/GUI-G2-3B"><img src="https://img.shields.io/badge/Model-GUI--G2--3B-007ec6?style=flat&logo=huggingface" alt="GUI-G2 3B Model"></a>
@@ -119,6 +123,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
 ### Online RL 
+
+UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
 
 MOBILERL: ADVANCING MOBILE USE AGENTS WITH ADAPTIVE ONLINE REINFORCEMENT LEARNING
 
