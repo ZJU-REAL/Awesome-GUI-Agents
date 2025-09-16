@@ -158,6 +158,8 @@ We will organize these points later:
 
 
 ### Multi-turn GUI Agent
+2025-09: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
+
 2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
 
 2025-05: WEBAGENT-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
@@ -207,6 +209,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-9-16: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
+
 2025-9-06: WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents
 
 2025-9-05: Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding 
