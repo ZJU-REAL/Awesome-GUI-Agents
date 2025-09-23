@@ -213,6 +213,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 
 ### R1-Style GUI Agents
+2025-9-22: BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent (2025 NIPS)
+
 2025-9-16: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
 
 2025-9-06: WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents
