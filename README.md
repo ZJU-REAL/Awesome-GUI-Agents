@@ -215,6 +215,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 ### R1-Style GUI Agents
 2025-9-30: LEARNING GUI GROUNDING WITH SPATIAL REASONING FROM VISUAL FEEDBACK
 
+2025-9-30: UI-UG: A Unified MLLM for UI Understanding and Generation
+
 2025-9-23: Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent
 
 2025-9-22: GUI-ARP: ENHANCING GROUNDING WITH ADAPTIVE REGION PERCEPTION FOR GUI AGENTS
