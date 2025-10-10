@@ -283,6 +283,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-10 AGENT-SCANKIT: UNRAVELING MEMORY AND REASONING OF MULTIMODAL AGENTS VIA SENSITIVITY PERTURBATIONS
+
 2025-9 Instruction Agent: Enhancing Agent with Expert Demonstration
 
 2025-9 Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding
