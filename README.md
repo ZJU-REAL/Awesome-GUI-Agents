@@ -127,6 +127,7 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
 ### Online RL 
+EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
 
 UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
 
