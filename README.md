@@ -217,6 +217,8 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 2025-9-30: UI-UG: A Unified MLLM for UI Understanding and Generation
 
+2025-9-28: EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
+
 2025-9-23: Orcust: Stepwise-Feedback Reinforcement Learning for GUI Agent
 
 2025-9-22: GUI-ARP: ENHANCING GROUNDING WITH ADAPTIVE REGION PERCEPTION FOR GUI AGENTS
