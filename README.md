@@ -165,6 +165,8 @@ We will organize these points later:
 
 
 ### Multi-turn GUI Agent
+2025-10: EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
+
 2025-09: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
 
 2025-05: ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay
