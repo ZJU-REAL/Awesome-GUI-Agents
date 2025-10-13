@@ -228,8 +228,6 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 ### R1-Style GUI Agents
 2025-10-04: GUI-SPOTLIGHT: ADAPTIVE ITERATIVE FOCUS REFINEMENT FOR ENHANCED GUI VISUAL GROUNDING
 
-2025-9-30: LEARNING GUI GROUNDING WITH SPATIAL REASONING FROM VISUAL FEEDBACK
-
 2025-9-30: Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
 
 2025-9-30: UI-UG: A Unified MLLM for UI Understanding and Generation
