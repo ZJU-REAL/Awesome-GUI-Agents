@@ -94,6 +94,7 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+
 Mano Technical Report
 
 SCALECUA: SCALING OPEN-SOURCE COMPUTER USE AGENTS WITH CROSS-PLATFORM DATA
@@ -125,6 +126,9 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.01391)
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
+
+### Memory for GUI Agents
+2025-10-13: AUTO-SCALING CONTINUOUS MEMORY FOR GUI AGENT
 
 ### Online RL 
 EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
@@ -216,11 +220,21 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 
 6、UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
 
+7、GENERALIST SCANNER MEETS SPECIALIST LOCATOR: A SYNERGISTIC COARSE-TO-FINE FRAMEWORK FOR ROBUST GUI GROUNDING
+
+### Prune
+2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2025-10-04: GUI-SPOTLIGHT: ADAPTIVE ITERATIVE FOCUS REFINEMENT FOR ENHANCED GUI VISUAL GROUNDING
+
 2025-9-30: LEARNING GUI GROUNDING WITH SPATIAL REASONING FROM VISUAL FEEDBACK
 
+2025-9-30: Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
+
 2025-9-30: UI-UG: A Unified MLLM for UI Understanding and Generation
+
+2025-9-28: GUI-SHEPHERD: RELIABLE PROCESS REWARD AND VERIFICATION FOR LONG-SEQUENCE GUI TASKS
 
 2025-9-28: EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
 
@@ -287,9 +301,17 @@ Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+2025-10 ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation
+
+2025-10 IMPROVING GUI GROUNDING WITH EXPLICIT POSITION-TO-COORDINATE MAPPING
+
 2025-10 PAL-UI: PLANNING WITH ACTIVE LOOK-BACK FOR VISION-BASED GUI AGENTS (SFT)
 
 2025-10 AGENT-SCANKIT: UNRAVELING MEMORY AND REASONING OF MULTIMODAL AGENTS VIA SENSITIVITY PERTURBATIONS
+
+2025-9 Log2Plan: An Adaptive GUI Automation Framework Integrated with Task Mining Approach
+
+2025-9 Retrieval-augmented GUI Agents with Generative Guidelines
 
 2025-9 Instruction Agent: Enhancing Agent with Expert Demonstration
 
