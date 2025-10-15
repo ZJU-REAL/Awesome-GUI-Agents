@@ -207,6 +207,8 @@ VideoGUI: A Benchmark for GUI Automation from Instructional Videos
 
 Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation
 
+Watch and Learn: Learning to Use Computers from Online Videos
+
 ### Test-Scaling Method (GUI Grounding && GUI Navigation) (Zoom In && Zoom Out)
 1、Test-Time Reinforcement Learning for GUI Grounding via Region Consistency
 
