@@ -95,6 +95,8 @@ We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, 
 
 ### Technical Report
 
+AgentS3: THE UNREASONABLE EFFECTIVENESS OF SCALING AGENTS FOR COMPUTER USE
+
 Mano Technical Report
 
 SCALECUA: SCALING OPEN-SOURCE COMPUTER USE AGENTS WITH CROSS-PLATFORM DATA
