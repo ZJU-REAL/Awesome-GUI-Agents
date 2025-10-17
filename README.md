@@ -94,6 +94,7 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+Holo1.5 - Open Foundation Models for Computer Use Agents
 
 AgentS3: THE UNREASONABLE EFFECTIVENESS OF SCALING AGENTS FOR COMPUTER USE
 
