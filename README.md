@@ -149,6 +149,8 @@ COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AG
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 ### GUI Navigation Benchmark
+FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games [Game]
+
 MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
 
 2025-09: MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents 
@@ -235,6 +237,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2025-10-13: GUI-SHIFT: ENHANCING VLM-BASED GUI AGENTS THROUGH SELF-SUPERVISED REINFORCEMENT LEARNING
+
 2025-10-04: GUI-SPOTLIGHT: ADAPTIVE ITERATIVE FOCUS REFINEMENT FOR ENHANCED GUI VISUAL GROUNDING
 
 2025-9-30: Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
