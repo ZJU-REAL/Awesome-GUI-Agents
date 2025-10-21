@@ -94,6 +94,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action 
+
 Surfer 2: The Next Generation of Cross-Platform Computer-Use Agents [bolg]
 
 Holo1.5 - Open Foundation Models for Computer Use Agents [bolg]
