@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* October 28， 2025: **We have summarized the paper on GUI Agent from ICLR 2026.** Please refer to [ICLR 2026](https://github.com/ZJU-REAL/Awesome-GUI-Agents/blob/main/ICLR2026/Paperlist.md)
+
 * September 16, 2025: We released our new paper on GUI Automation: **UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning**
     - 📄 [arXiv 2509.11543](https://arxiv.org/pdf/2509.11543)  
     - 🤗 [Hugging Face Papers](https://huggingface.co/papers/2509.11543)  
