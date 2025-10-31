@@ -139,9 +139,13 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
 ### Memory for GUI Agents
+2025-10-28: MGA: Memory-Driven GUI Agent for Observation-Centric Interaction
+
 2025-10-13: AUTO-SCALING CONTINUOUS MEMORY FOR GUI AGENT
 
 ### Online RL 
+MobileRL: Online Agentic Reinforcement Learning for Mobile GUI Agents
+
 EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
 
 UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
