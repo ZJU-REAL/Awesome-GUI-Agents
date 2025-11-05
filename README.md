@@ -372,6 +372,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 
 2025-6 GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents [Github](https://github.com/microsoft/GUI-Actor) [Paper](https://arxiv.org/abs/2506.03143)
 
+2025-5 Advancing Mobile GUI Agents: A Verifier-Driven Approach to Practical Deployment
+
 2025-5 UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents
 
 2025-5 SpiritSight Agent: Advanced GUI Agent with One Look (2025CVPR)
