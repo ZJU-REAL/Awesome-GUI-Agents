@@ -247,6 +247,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2025-11-12: GROUNDING COMPUTER USE AGENTS ON HUMAN DEMONSTRATIONS **(open sourced training data)**
+
 2025-11-3: HYPERCLICK: ADVANCING RELIABLE GUI GROUNDING VIA UNCERTAINTY CALIBRATION
 
 2025-11-3: GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation
