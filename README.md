@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* On November 8, 2025, we are happy that our two papers, [GUI-G²](https://github.com/ZJU-REAL/GUI-G2) and [GUI-RC](https://github.com/ZJU-REAL/GUI-RCPO), were accepted by **AAAI 2026**.
+
 * October 28， 2025: **We have summarized the paper on GUI Agent from ICLR 2026.** Please refer to [ICLR 2026](https://github.com/ZJU-REAL/Awesome-GUI-Agents/blob/main/ICLR2026/Paperlist.md)
 
 * September 16, 2025: We released our new paper on GUI Automation: **UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning**
