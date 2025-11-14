@@ -1,4 +1,5 @@
 #### Statistics
+Compiled by [Boxuan Zhang](https://github.com/jucve)
 
 A total of 70 GUI-related articles
 
@@ -576,4 +577,5 @@ Title: Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Gr
 TLDR: SGV uses a two-step method of "self-setting standards then judging" to crack the "agreement bias" in MLLM evaluation. It improves performance by an average of 20% across three major tasks (Web, Robotics, GUI) and simultaneously open-sources a 10x accelerated (Visual)WebArena, providing real-time, reliable, and scalable reward signals for digital agents.
 Initial Scores: 4, 8, 4, 6
 Confidence: 3, 3, 3, 4
+
 Average Score: 5.5
