@@ -201,6 +201,12 @@ We will organize these points later:
 ### Training Free GUI Grounding
 1、Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning [2025AAAI]
 
+2、MEGA-GUI: MULTI-STAGE ENHANCED GROUNDING AGENTS FOR GUI ELEMENTS [2025-11-18]
+
+3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [EMNLP 2025]
+
+4、Visual Test-time Scaling for GUI Agent Grounding
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
