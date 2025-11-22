@@ -100,11 +100,21 @@
 </div>
 
 # **Data Collection**
-1. **<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">GEM: Gaussian Embedding Modeling for Out-of Distribution Detection in GUI Agents</font>**
+1. **<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents</font>**
 
 **<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Abstract: </font>**<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Building Graphical User Interface (GUI) agents is a promising research direction, which simulates human interaction with computers or mobile phones to perform diverse GUI tasks. However, a major challenge in developing generalized GUI agents is the lack of sufficient trajectory data across various operating systems and applications, mainly due to the high cost of manual annotations. In this paper, we propose the TongUI framework that builds generalized GUI agents by learning from rich multimodal web tutorials. Concretely, we crawl and process online GUI tutorials (such as videos and articles) into GUI agent trajectory data, through which we produce the GUI-Net dataset containing 143K trajectory data across five operating systems and more than 200 applications. We develop the TongUI agent by fine-tuning Qwen2.5-VL-3B/7B models on GUI-Net, which show remarkable performance improvements on commonly used grounding and navigation benchmarks, outperforming baseline agents about 10\% on multiple benchmarks, showing the effectiveness of the GUI-Net dataset and underscoring the significance of our TongUI framework. We will fully open-source the code, the GUI-Net dataset, and the trained models soon.
 
 
 <div style="text-align: center;">
 <img src="figures\Data1.png"  width="60%" >
+</div>
+
+# **Multi-Agent**
+1. **<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation</font>**
+
+**<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Abstract: </font>**<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Mobile agents show immense potential, yet current state-of-the-art (SoTA) agents exhibit inadequate success rates on real-world, long-horizon, cross-application tasks. We attribute this bottleneck to the agents' excessive reliance on static, internal knowledge within MLLMs, which leads to two critical failure points: 1) strategic hallucinations in high-level planning and 2) operational errors during low-level execution on user interfaces (UI). The core insight of this paper is that high-level planning and low-level UI operations require fundamentally distinct types of knowledge. Planning demands high-level, strategy-oriented experiences, whereas operations necessitate low-level, precise instructions closely tied to specific app UIs. Motivated by these insights, we propose Mobile-Agent-RAG, a novel hierarchical multi-agent framework that innovatively integrates dual-level retrieval augmentation. At the planning stage, we introduce Manager-RAG to reduce strategic hallucinations by retrieving human-validated comprehensive task plans that provide high-level guidance. At the execution stage, we develop Operator-RAG to improve execution accuracy by retrieving the most precise low-level guidance for accurate atomic actions, aligned with the current app and subtask. To accurately deliver these knowledge types, we construct two specialized retrieval-oriented knowledge bases. Furthermore, we introduce Mobile-Eval-RAG, a challenging benchmark for evaluating such agents on realistic multi-app, long-horizon tasks. Extensive experiments demonstrate that Mobile-Agent-RAG significantly outperforms SoTA baselines, improving task completion rate by 11.0% and step efficiency by 10.2%, establishing a robust paradigm for context-aware, reliable multi-agent mobile automation.
+
+
+<div style="text-align: center;">
+<img src="figures\Multiagent1.png"  width="60%" >
 </div>
