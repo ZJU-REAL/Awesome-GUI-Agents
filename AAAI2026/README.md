@@ -19,6 +19,15 @@
 <img src="figures\Bench2.png"  width="60%" >
 </div>
 
+3. **<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered Smartphone Agents</font>**
+
+**<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">Abstract: </font>**<font style="color:rgb(44, 58, 74);background-color:rgb(255, 253, 250);">With the deep integration of artificial intelligence and interactive technology, Graphical User Interface (GUI) Agent, as the carrier connecting goal-oriented natural language and real-world devices, has received widespread attention from the community. Contemporary benchmarks aim to evaluate the comprehensive capabilities of GUI agents in GUI operation tasks, generally determining task completion solely by inspecting the final screen state. However, GUI operation tasks consist of multiple chained steps while not all critical information is presented in the final few pages. Although a few research has begun to incorporate intermediate steps into evaluation, accurately and automatically capturing this process information still remains an open challenge. To address this weakness, we introduce ProBench, a comprehensive mobile benchmark with over 200 challenging GUI tasks covering widely-used scenarios. Remaining the traditional State-related Task evaluation, we extend our dataset to include Process-related Task and design a specialized evaluation method. A newly introduced Process Provider automatically supplies accurate process information, enabling presice assessment of agent's performance. Our evaluation of advanced GUI agents reveals significant limitations for real-world GUI scenarios. These shortcomings are prevalent across diverse models, including both large-scale generalist models and smaller, GUI-specific models. A detailed error analysis further exposes several universal problems, outlining concrete directions for future improvements.
+
+
+<div style="text-align: center;">
+<img src="figures\Bench3.png"  width="60%" >
+</div>
+
 # **Grounding & RL**
 1. **UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning**
 
