@@ -102,6 +102,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+Fara-7B: An Efficient Agentic Model for Computer Use
+
 Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents
 
 UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action 
