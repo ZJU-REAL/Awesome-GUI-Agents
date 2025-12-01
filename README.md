@@ -193,7 +193,14 @@ We will organize these points later:
 8、... stay tuned
 
 
+### Automated Data Collection
+1、AUTO-Explorer: Automated Data Collection for GUI Agent
+
+2、GUI-ReWalk: Massive Data Generation for GUI Agent via Stochastic Exploration and Intent-Aware Reasoning
+
 ### Multi-turn GUI Agent
+2025-12 GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning [nips 2025]
+
 2025-10: EFFICIENT MULTI-TURN RL FOR GUI AGENTS VIA DECOUPLED TRAINING AND ADAPTIVE DATA CURATION
 
 2025-09: UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
