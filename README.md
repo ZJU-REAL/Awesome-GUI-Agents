@@ -216,7 +216,9 @@ We will organize these points later:
 
 3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [EMNLP 2025]
 
-4、Visual Test-time Scaling for GUI Agent Grounding
+4、Visual Test-time Scaling for GUI Agent Grounding [ICCV 2025]
+
+5、Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback
 
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
