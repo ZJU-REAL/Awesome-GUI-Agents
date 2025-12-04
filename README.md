@@ -220,6 +220,8 @@ We will organize these points later:
 
 5、Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback
 
+6、Improved GUI Grounding via Iterative Narrowing
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
