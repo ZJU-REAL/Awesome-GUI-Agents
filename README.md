@@ -272,6 +272,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2025-11-27: Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation
+
 2025-11-17: Co-EPG: A Framework for Co-Evolution of Planning and Grounding in Autonomous GUI Agents
 
 2025-11-12: GROUNDING COMPUTER USE AGENTS ON HUMAN DEMONSTRATIONS **(open sourced training data)**
