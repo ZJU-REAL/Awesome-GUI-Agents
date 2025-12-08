@@ -222,6 +222,8 @@ We will organize these points later:
 
 6、Improved GUI Grounding via Iterative Narrowing
 
+7、Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
