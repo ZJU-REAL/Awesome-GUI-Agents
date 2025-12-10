@@ -224,6 +224,8 @@ We will organize these points later:
 
 7、Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
 
+8、MVP: Multiple View Prediction Improves GUI Grounding
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
