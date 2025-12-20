@@ -167,6 +167,8 @@ COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AG
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 ### GUI Navigation Benchmark
+Modular and Multi-Path-Aware Offline Benchmarking for Mobile GUI Agents
+
 FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games [Game]
 
 MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
