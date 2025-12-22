@@ -148,6 +148,11 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### World Model for GUI Agents
+1、MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
+
+2、A Generative Visual GUI World Model for App Agents
+
 ### Memory for GUI Agents
 2025-10-28: MGA: Memory-Driven GUI Agent for Observation-Centric Interaction
 
