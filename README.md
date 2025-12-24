@@ -243,6 +243,8 @@ We will organize these points later:
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 ### GUI Grounding Benchmark
+Using GUI Agent for Electronic Design Automation [CAD]
+
 VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks
 
 WinSpot: A Windows GUI Grounding Benchmark with Multimodal Large Language Models
