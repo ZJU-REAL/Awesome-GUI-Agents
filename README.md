@@ -154,6 +154,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 2、A Generative Visual GUI World Model for App Agents
 
 ### Memory for GUI Agents
+2025-12-24: EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration
+
 2025-10-28: MGA: Memory-Driven GUI Agent for Observation-Centric Interaction
 
 2025-10-13: AUTO-SCALING CONTINUOUS MEMORY FOR GUI AGENT
