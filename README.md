@@ -102,6 +102,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
+
 [Step-GUI Technical Report](https://github.com/stepfun-ai/gelab-zero/blob/main/report/Step-GUI_Technical_Report.pdf)
 
 Fara-7B: An Efficient Agentic Model for Computer Use
