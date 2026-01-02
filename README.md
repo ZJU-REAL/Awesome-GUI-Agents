@@ -150,6 +150,9 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### Flow Matching GUI Agents
+1、ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
+
 ### World Model for GUI Agents
 1、MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
 
