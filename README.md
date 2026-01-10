@@ -293,6 +293,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 7、GENERALIST SCANNER MEETS SPECIALIST LOCATOR: A SYNERGISTIC COARSE-TO-FINE FRAMEWORK FOR ROBUST GUI GROUNDING
 
 ### Prune
+2026-1-08: FOCUSUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
+
 2025-10-24: Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Model
 
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
