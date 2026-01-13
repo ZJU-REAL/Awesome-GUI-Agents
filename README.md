@@ -248,6 +248,8 @@ We will organize these points later:
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 ### GUI Grounding Benchmark
+Beyond Clicking: A Step Towards Generalist GUI Grounding via Text Dragging [Drag Datasets of CUA](https://osu-nlp-group.github.io/GUI-Drag/)
+
 Using GUI Agent for Electronic Design Automation [CAD]
 
 VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks
