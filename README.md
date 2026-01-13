@@ -210,6 +210,12 @@ We will organize these points later:
 
 8、... stay tuned
 
+### ShowUI Series
+1、ShowUI: One Vision-Language-Action Model for GUI Visual Agent
+
+2、ShowUI-Aloha: Human-Taught GUI Agent
+
+3、ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
 
 ### Automated Data Collection
 1、AUTO-Explorer: Automated Data Collection for GUI Agent
