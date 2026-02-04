@@ -162,6 +162,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 3、MobileDreamer: Generative Sketch World Model for GUI Agent
 
+4、Generative Visual Code Mobile World Models
+
 
 ### Memory for GUI Agents
 2025-12-24: EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration
