@@ -102,6 +102,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+POINTS-GUI-G: GUI-Grounding Journey
+
 OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution （BaiDu）
 
 MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
