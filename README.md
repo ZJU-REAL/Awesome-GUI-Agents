@@ -261,6 +261,8 @@ We will organize these points later:
 
 8、MVP: Multiple View Prediction Improves GUI Grounding
 
+9、Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
