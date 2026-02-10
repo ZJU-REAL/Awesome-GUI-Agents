@@ -168,6 +168,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 
 ### Memory for GUI Agents
+2026-02-09: MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
+
 2025-02-06: UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents
 
 2025-12-24: EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration
