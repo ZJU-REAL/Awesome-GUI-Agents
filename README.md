@@ -102,6 +102,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+UI-Venus-1.5 Technical Report
+
 POINTS-GUI-G: GUI-Grounding Journey
 
 OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution （BaiDu）
@@ -165,6 +167,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 3、MobileDreamer: Generative Sketch World Model for GUI Agent
 
 4、Generative Visual Code Mobile World Models
+
+5、Code2World: A GUI World Model via Renderable Code Generation
 
 
 ### Memory for GUI Agents
