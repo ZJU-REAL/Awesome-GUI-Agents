@@ -320,6 +320,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 7、GENERALIST SCANNER MEETS SPECIALIST LOCATOR: A SYNERGISTIC COARSE-TO-FINE FRAMEWORK FOR ROBUST GUI GROUNDING
 
 ### Prune
+2026-2-07: Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents
+
 2026-1-08: FOCUSUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
 
 2025-10-24: Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Model
@@ -327,6 +329,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2026-2-06: GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
+
 2026-1-20: Continual GUI Agents
 
 2026-1-12: From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation
