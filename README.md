@@ -271,6 +271,8 @@ We will organize these points later:
 
 9、Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
 
+10、Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements
+
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
