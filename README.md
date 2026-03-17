@@ -296,6 +296,8 @@ UI-Vision: A Desktop-centric GUI Benchmark for Visual Perception and Interaction
 ### Video GUI
 desc: using video to assist gui agent learn
 
+[GUI Video Dataset](https://huggingface.co/datasets/markov-ai/computer-use-large)
+
 Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents
 
 ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
