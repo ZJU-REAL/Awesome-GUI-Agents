@@ -252,27 +252,6 @@ We will organize these points later:
 
 2025-05: WEBAGENT-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
 
-### Training Free GUI Grounding
-1、Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning [2025AAAI]
-
-2、MEGA-GUI: MULTI-STAGE ENHANCED GROUNDING AGENTS FOR GUI ELEMENTS [2025-11-18]
-
-3、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [EMNLP 2025]
-
-4、Visual Test-time Scaling for GUI Agent Grounding [ICCV 2025]
-
-5、Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback
-
-6、Improved GUI Grounding via Iterative Narrowing
-
-7、Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
-
-8、MVP: Multiple View Prediction Improves GUI Grounding
-
-9、Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
-
-10、Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements
-
 ### Zero Cost GUI Agent
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
@@ -324,6 +303,28 @@ Watch and Learn: Learning to Use Computers from Online Videos
 6、UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding
 
 7、GENERALIST SCANNER MEETS SPECIALIST LOCATOR: A SYNERGISTIC COARSE-TO-FINE FRAMEWORK FOR ROBUST GUI GROUNDING
+
+8、Attention-driven GUI Grounding: Leveraging Pretrained Multimodal Large Language Models without Fine-Tuning [2025AAAI]
+
+9、MEGA-GUI: MULTI-STAGE ENHANCED GROUNDING AGENTS FOR GUI ELEMENTS [2025-11-18]
+
+10、DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [EMNLP 2025]
+
+11、Visual Test-time Scaling for GUI Agent Grounding [ICCV 2025]
+
+12、Chain-of-Ground: Improving GUI Grounding via Iterative Reasoning and Reference Feedback
+
+13、Improved GUI Grounding via Iterative Narrowing
+
+14、Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding
+
+15、MVP: Multiple View Prediction Improves GUI Grounding
+
+16、Trifuse: Enhancing Attention-Based GUI Grounding via Multimodal Fusion
+
+17、Zoom to Essence: Trainless GUI Grounding by Inferring upon Interface Elements
+
+18、AdaZoom-GUI: Adaptive Zoom-based GUI Grounding with Instruction Refinement
 
 ### Prune
 
