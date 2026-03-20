@@ -158,6 +158,10 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### Reward Model 
+
+1、OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards
+
 ### Flow Matching GUI Agents
 1、ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
 
