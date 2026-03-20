@@ -178,6 +178,9 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 
 ### Memory for GUI Agents
+
+2026-03-21: AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents
+
 2026-02-09: MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
 
 2025-02-06: UI-Mem: Self-Evolving Experience Memory for Online Reinforcement Learning in Mobile GUI Agents
