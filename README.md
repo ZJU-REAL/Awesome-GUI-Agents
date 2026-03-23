@@ -601,3 +601,9 @@ Watch and Learn: Learning to Use Computers from Online Videos
 | Reinforcement learning on web interfaces using workflow-guided exploration （2018-02） | ![image-20250323225104521](figures/image-20250323225104521.png) | [Github](https://github.com/stanfordnlp/wge) <br/> [Paper](https://arxiv.org/abs/1802.08802) |
 | Rico: A mobile app dataset for building data-driven design applications （2017-10） | ![image-20250323225453702](figures/image-20250323225453702.png) | [HomePage](http://interactionmining.org/rico) <br/> [Paper](https://dl.acm.org/doi/10.1145/3126594.3126651) |
 | World of bits: An open-domain platform for web based agents （2017-08） | ![image-20250323225547948](figures/image-20250323225547948.png) |    [Paper](https://proceedings.mlr.press/v70/shi17a.html)    |
+
+### Contributor
+
+<a href="https://github.com/ZJU-REAL/Awesome-GUI-Agents/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ZJU-REAL/Awesome-GUI-Agents" />
+</a>
