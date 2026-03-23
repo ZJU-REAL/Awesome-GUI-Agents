@@ -602,8 +602,18 @@ Watch and Learn: Learning to Use Computers from Online Videos
 | Rico: A mobile app dataset for building data-driven design applications （2017-10） | ![image-20250323225453702](figures/image-20250323225453702.png) | [HomePage](http://interactionmining.org/rico) <br/> [Paper](https://dl.acm.org/doi/10.1145/3126594.3126651) |
 | World of bits: An open-domain platform for web based agents （2017-08） | ![image-20250323225547948](figures/image-20250323225547948.png) |    [Paper](https://proceedings.mlr.press/v70/shi17a.html)    |
 
-### Contributor
+## Contributor
 
 <a href="https://github.com/ZJU-REAL/Awesome-GUI-Agents/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ZJU-REAL/Awesome-GUI-Agents" />
+</a>
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=ZJU-REAL%2FAwesome-GUI-Agents&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZJU-REAL/Awesome-GUI-Agents&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZJU-REAL/Awesome-GUI-Agents&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZJU-REAL/Awesome-GUI-Agents&type=date&legend=top-left" />
+ </picture>
 </a>
