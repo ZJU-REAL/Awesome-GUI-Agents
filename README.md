@@ -169,6 +169,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 ### Flow Matching GUI Agents
 1、ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
 
+2、Towards GUI Agents: Vision-Language Diffusion Models for GUI Grounding
+
 ### World Model for GUI Agents
 1、MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
 
