@@ -215,6 +215,8 @@ COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AG
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 ### GUI Navigation Benchmark
+PSPA-BENCH: A Personalized Benchmark for Smartphone GUI Agent
+
 MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
 
 Modular and Multi-Path-Aware Offline Benchmarking for Mobile GUI Agents
