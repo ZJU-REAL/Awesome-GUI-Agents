@@ -358,6 +358,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2026-04-08: Don’t Act Blindly: Robust GUI Automation via Action-EffectVerification and Self-Correctio
+
 2026-3-02: CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning
 
 2026-2-06: GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
