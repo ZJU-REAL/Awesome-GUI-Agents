@@ -160,6 +160,9 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326)
 
+### Opensource Data 
+1、MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+
 ### On-Policy distillation for GUI Agents
 
 2026-03-26: UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
