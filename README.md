@@ -13,6 +13,12 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* We opensource 🦞 **ClawGUI**: **A Unified Framework for Training, Evaluating, and Deploying GUI Agents**
+  - 📄 [![arXiv](https://img.shields.io/badge/arXiv-2604.11784-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.11784)
+  - 💻 [![GitHub](https://img.shields.io/badge/GitHub-ZJU--REAL%2FClawGUI-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZJU-REAL/ClawGUI)
+  - 🌐 [![Project Page](https://img.shields.io/badge/Project-Page-4CAF50?style=flat&logo=googlechrome&logoColor=white)](https://zju-real.github.io/ClawGUI-Page/)
+  - 🤗 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Daily%20Paper-FFD21E?style=flat)](https://huggingface.co/papers/2604.11784)
+
 * On November 23, 2025, We have summarized and analyzed the AAAI 2026 accepted papers on GUI agents. [Check it out](https://github.com/ZJU-REAL/Awesome-GUI-Agents/tree/main/AAAI2026).
 
 * On November 14, 2025, We have summarized and analyzed the ICLR 2026 papers on GUI. [Check it out](https://github.com/ZJU-REAL/Awesome-GUI-Agents/blob/main/ICLR2026/ICLR_2026_GUI_Score_CN.md).
