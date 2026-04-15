@@ -120,6 +120,8 @@ Fara-7B: An Efficient Agentic Model for Computer Use
 
 Game-TARS: Pretrained Foundation Models for Scalable Generalist Multimodal Game Agents
 
+GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+
 UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action 
 
 Surfer 2: The Next Generation of Cross-Platform Computer-Use Agents [bolg]
