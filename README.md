@@ -189,6 +189,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 
 5、Code2World: A GUI World Model via Renderable Code Generation
 
+### Privacy and Personalization
+Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization
 
 ### Memory for GUI Agents
 
@@ -220,6 +222,10 @@ COMPUTERRL: SCALING END-TO-END ONLINE REINFORCEMENT LEARNING FOR COMPUTER USE AG
 Mobile-Agent-v3: Foundamental Agents for GUI Automation
 
 ### GUI Navigation Benchmark
+MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion
+
+Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization
+
 PSPA-BENCH: A Personalized Benchmark for Smartphone GUI Agent
 
 MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
