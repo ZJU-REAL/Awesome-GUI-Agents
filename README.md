@@ -280,6 +280,8 @@ We will organize these points later:
 2025-6-02: ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 ### GUI Grounding Benchmark
+See, Point, Refine: Multi-Turn Approach to GUI Grounding with Visual Feedback
+
 MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI
 
 Beyond Clicking: A Step Towards Generalist GUI Grounding via Text Dragging [Drag Datasets of CUA](https://osu-nlp-group.github.io/GUI-Drag/)
