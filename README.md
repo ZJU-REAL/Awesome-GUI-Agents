@@ -13,6 +13,8 @@ A curated list for **GUI Agents**
 ![Alt text](figures/overview.png)
 
 ## 🚀 [Updates](#updates) 
+* We released our new paper on GUI Automation & GUI Grounding: [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/pdf/2604.13822); [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/pdf/2604.14113)
+
 * We opensource 🦞 **ClawGUI**: **A Unified Framework for Training, Evaluating, and Deploying GUI Agents**
   - 📄 [![arXiv](https://img.shields.io/badge/arXiv-2604.11784-b31b1b?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.11784)
   - 💻 [![GitHub](https://img.shields.io/badge/GitHub-ZJU--REAL%2FClawGUI-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZJU-REAL/ClawGUI)
@@ -379,6 +381,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2026-4-16: UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
+
 2026-04-08: Don’t Act Blindly: Robust GUI Automation via Action-EffectVerification and Self-Correctio
 
 2026-3-02: CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning
