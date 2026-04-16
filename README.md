@@ -200,6 +200,8 @@ Phi-Ground Tech Report: Advancing Perception in GUI Grounding
 5、Code2World: A GUI World Model via Renderable Code Generation
 
 ### Privacy and Personalization
+MAESTRO: Adapting GUIs and Guiding Navigation with User Preferences in Conversational Agents with GUIs
+
 Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization
 
 ### Memory for GUI Agents
