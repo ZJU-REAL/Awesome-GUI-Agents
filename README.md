@@ -14,7 +14,7 @@ A curated list for **GUI Agents**
 
 ## 🚀 [Updates](#updates) 
 * We released our new paper on GUI Automation & GUI Grounding:
-   - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/pdf/2604.13822);
+   - [UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization](https://arxiv.org/pdf/2604.13822)
    - [UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/pdf/2604.14113)
 
 * We opensource 🦞 **ClawGUI**: **A Unified Framework for Training, Evaluating, and Deploying GUI Agents**
