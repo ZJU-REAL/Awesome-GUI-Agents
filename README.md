@@ -385,6 +385,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 19、BAMI: Training-Free Bias Mitigation in GUI Grounding
 
 ### Prune
+2026-5-22: AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees
+
 2026-5-06: A11y-Compressor: A Framework for Enhancing the Efficiency of GUI Agent Observations through Visual Context Reconstruction and Redundancy Reduction
 
 2026-2-07: Spatio-Temporal Token Pruning for Efficient High-Resolution GUI Agents
