@@ -398,6 +398,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-10-01: GUI-KV: EFFICIENT GUI AGENTS VIA KV CACHE WITH SPATIO-TEMPORAL AWARENESS
 
 ### R1-Style GUI Agents
+2026-6-01: GUI-C2: Coarse-to-Fine GUI Grounding via Difficulty-Aware Reinforcement Learning
+
 2026-5-06: Faithful Mobile GUI Agents with Guided Advantage Estimator
 
 2026-4-16: UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization
