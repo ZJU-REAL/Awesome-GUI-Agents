@@ -114,6 +114,8 @@ We have divided GUI Agents into four modules: perception, exploration, planning,
 We have dedicated a separate chapter to datasets and benchmarks for GUI Agents, with all content presented in chronological order.
 
 ### Technical Report
+Xiaomi-GUI-0 Technical Report
+
 MolmoPoint: Better Pointing for VLMs with Grounding Tokens
 
 Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
