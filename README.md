@@ -263,6 +263,9 @@ MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
 2025-08: UI-NEXUS: Atomic-to-Compositional Generalization for Mobile Agents with A New Benchmark and Scheduling System
 
 2025-07: MMBENCH-GUI: HIERARCHICAL MULTI-PLATFORM EVALUATION FRAMEWORK FOR GUI AGENTS
+
+2026-04: [ClawBench](https://arxiv.org/abs/2604.08523): A live-web benchmark with 283 everyday tasks across 163 production websites, evaluated with request interception and execution traces ([code](https://github.com/TIGER-AI-Lab/ClawBench), [project](https://claw-bench.com/))
+
 We will organize these points later:
 
 1、AndroidWorld
