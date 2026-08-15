@@ -510,6 +510,8 @@ Watch and Learn: Learning to Use Computers from Online Videos
 2025-3-27: UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning
 
 ### [GUI Agents List](#agentlist)
+**Open-source tooling:** [agent-qa](https://github.com/vostride/agent-qa) - A self-improving QA agent that runs natural-language web and mobile GUI tests, self-heals after interface changes, and learns from previous runs.
+
 2025-10 MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human Perception of User Interfaces
 
 2025-10 ReInAgent: A Context-Aware GUI Agent Enabling Human-in-the-Loop Mobile Task Navigation
