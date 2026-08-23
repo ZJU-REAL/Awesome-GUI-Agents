@@ -105,6 +105,7 @@ If you'd like to include your paper, or need to update any details such as githu
 
 ## [Four Module of GUI Agents](#module)
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Open-source macOS menu bar AI agent: shake cursor to summon an overlay that sees your screen and can click, type, and act.
 We have divided GUI Agents into four modules: perception, exploration, planning, and interaction, as shown below:
 
 ![Alt text](figures/module.jpg)
