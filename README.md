@@ -246,6 +246,8 @@ Mobile-Agent-v3: Foundamental Agents for GUI Automation
 ### GUI Navigation Benchmark
 MobiFlow: Real-World Mobile Agent Benchmarking through Trajectory Fusion
 
+[ClawBench](https://github.com/reacher-z/ClawBench): A live-web benchmark for GUI and web agents with 283 everyday tasks across 163 production websites, evaluated with request interception and execution traces.
+
 Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization
 
 PSPA-BENCH: A Personalized Benchmark for Smartphone GUI Agent
